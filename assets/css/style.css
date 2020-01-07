@@ -1,0 +1,30 @@
+.jumbo {
+  background-image: url("../img/bg_jumbo.svg");
+}
+
+.bg_text {
+  color: white;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  background-color: rgba(13, 22, 51, 0.712);
+  -webkit-box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2);
+          box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2);
+  border-radius: 25px;
+  padding: 5px 20px;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+.bg_text p {
+  font-weight: bolder;
+}
+
+.bg_text h1 {
+  text-transform: uppercase;
+}
+
+h2, h3 {
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
