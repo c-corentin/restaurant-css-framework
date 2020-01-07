@@ -1,6 +1,3 @@
-$font_fam:'Montserrat',
-sans-serif;
-
 .jumbo {
     background-image: url("../img/bg_jumbo.svg");
     background-position: fixed;
@@ -14,8 +11,6 @@ sans-serif;
         border-radius: 25px;
         padding: 5px 20px;
         text-align: center;
-        font-family: $font_fam;
-
         p {
             font-weight: bolder;
         }

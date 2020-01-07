@@ -80,7 +80,6 @@ footer aside iframe {
   border-radius: 25px;
   padding: 5px 20px;
   text-align: center;
-  font-family: "Montserrat", sans-serif;
 }
 
 .jumbo .bg_text p {
@@ -93,5 +92,9 @@ footer aside iframe {
 
 h2, h3 {
   text-align: center;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
 }
 /*# sourceMappingURL=style.css.map */
