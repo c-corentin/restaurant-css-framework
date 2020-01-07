@@ -1,4 +1,4 @@
-ul {
+nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -9,11 +9,11 @@ ul {
   top: 0;
 }
 
-ul li {
+nav ul li {
   float: left;
 }
 
-ul li a {
+nav ul li a {
   display: block;
   color: white;
   text-align: center;
@@ -21,7 +21,7 @@ ul li a {
   text-decoration: none;
 }
 
-ul li .active {
+nav ul li .active {
   background-color: #4CAF50;
 }
 
@@ -30,5 +30,37 @@ li a:hover {
   background-color: #111;
   color: white;
   text-decoration: none;
+}
+
+footer {
+  background-color: rgba(21, 61, 206, 0.993);
+  background: linear-gradient(45deg, rgba(122, 126, 137, 0.993), #465071, #04091b);
+  color: white;
+  -webkit-box-shadow: 0px 1px 2px black;
+          box-shadow: 0px 1px 2px black;
+  padding: 1%;
+}
+
+footer strong {
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+footer ul {
+  list-style: none;
+  padding-bottom: 3%;
+  margin: auto;
+}
+
+footer ul li img {
+  width: 20%;
+}
+
+footer aside {
+  padding-bottom: 1%;
+}
+
+footer aside iframe {
+  border: 1px solid black;
 }
 /*# sourceMappingURL=style.css.map */
