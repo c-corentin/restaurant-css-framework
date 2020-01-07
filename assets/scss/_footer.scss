@@ -4,29 +4,31 @@ footer {
     color: white;
     box-shadow: 0px 1px 2px black;
     padding: 1%;
+
     strong {
         font-weight: normal;
         text-decoration: underline;
     }
-}
 
-ul {
-    list-style: none;
-    padding-bottom: 3%;
-    margin:auto;
-    li {
-        img {
-            width: 20%;
+
+    ul {
+        list-style: none;
+        padding-bottom: 3%;
+        margin: auto;
+
+        li {
+            img {
+                width: 20%;
+            }
+        }
+    }
+
+
+    aside {
+        padding-bottom: 1%;
+
+        iframe {
+            border: 1px solid black;
         }
     }
 }
-
-
-aside {
-    padding-bottom: 1%;
-    iframe {
-        border: 1px solid black;
-    }
-}
-
-
