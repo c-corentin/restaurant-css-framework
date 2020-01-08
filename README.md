@@ -20,4 +20,4 @@ Oui oui vous ne rêvez pas le projet se déroule du **07/01/20** au **09/01/20**
 
 N'oubliez pas de laisser un pouce bleu, euh pardon, de passer nous voir si vous avez plus de questions !
 
-[](https://media.giphy.com/media/1xucXbDnMIYkU/source.gif)
+![BYEBYE](https://media.giphy.com/media/1xucXbDnMIYkU/source.gif)
