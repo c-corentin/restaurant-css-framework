@@ -1,5 +1,3 @@
-$font_fam:'Montserrat',sans-serif;
-
 @import 'nav';
 @import 'footer';
 @import 'jumbo';
@@ -7,6 +5,7 @@ $font_fam:'Montserrat',sans-serif;
 @import 'form';
 @import 'restaurant';
 @import 'parallax';
+@import 'carousel';
 
 body {
     font-family: 'Montserrat', sans-serif;
