@@ -1,8 +1,11 @@
+$font_fam:'Montserrat',sans-serif;
+
 @import 'nav';
 @import 'footer';
 @import 'jumbo';
 @import 'carte';
+@import 'form';
 
 body {
-    font-family: 'Montserrat', sans-serif;;
+    font-family:$font_fam;
 }

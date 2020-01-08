@@ -92,9 +92,22 @@ footer aside iframe {
 
 h2, h3 {
   text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+form {
+  margin-right: 20%;
+  margin-left: 20%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  background-color: #FFFFCB;
+}
+
+form div {
+  margin: 25px;
 }
 
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 /*# sourceMappingURL=style.css.map */
