@@ -1,7 +1,11 @@
+$font_fam:'Montserrat',sans-serif;
+
 @import 'nav';
 @import 'footer';
 @import 'jumbo';
 @import 'carte';
+@import 'form';
+@import 'restaurant';
 @import 'parallax';
 
 body {

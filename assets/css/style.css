@@ -64,6 +64,7 @@ footer aside iframe {
 .jumbo {
   background-image: url("../img/bg_jumbo.svg");
   background-position: fixed;
+  margin: 0;
 }
 
 .jumbo .bg_text {
@@ -89,6 +90,19 @@ footer aside iframe {
 
 h2, h3 {
   text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+form {
+  margin-right: 20%;
+  margin-left: 20%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  background-color: #FFFFCB;
+}
+
+form div {
+  margin: 25px;
 }
 
 #chi {
@@ -122,7 +136,7 @@ h2, h3 {
 }
 
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 body .sec_txt {
