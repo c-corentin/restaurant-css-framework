@@ -1,1 +1,8 @@
-@import 'footer'
+@import 'nav';
+@import 'footer';
+@import 'jumbo';
+@import 'carte';
+
+body {
+    font-family: 'Montserrat', sans-serif;;
+}
