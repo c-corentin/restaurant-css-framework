@@ -4,7 +4,7 @@ C'est avec plaisir que nous vous accueillons dans notre humble projet. Mais vous
 
 ## Mais quel projet ?
 
-Le projet est la réalisation d'une site à l'éffigie d'une franchise de restaurants en trois jours, dans le cadre de la formation **BeCode** à Charleroi. C'est pourquoi je vous présente fièrement le 
+Le projet est la réalisation d'un site à l'éffigie d'une franchise de restaurants en trois jours, dans le cadre de la formation **BeCode** à Charleroi. C'est pourquoi je vous présente fièrement le 
 
 ## Mexinois
 
