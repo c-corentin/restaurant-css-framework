@@ -67,6 +67,7 @@ footer aside iframe {
 .jumbo {
   background-image: url("../img/bg_jumbo.svg");
   background-position: fixed;
+  margin: 0;
 }
 
 .jumbo .bg_text {
