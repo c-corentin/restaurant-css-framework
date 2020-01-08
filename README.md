@@ -12,7 +12,7 @@ Fier bastion de la fusion de cuisines que tout semble séparer, quand les saveur
 
 ## Les Octocats 
 
-L'idée géniale et ingénieuse sort tout droit de la matière grise de trois cerveaux fusionnés ensemble par l'entraide, le partage et ... Non en fait nous ne mentons pas, la seule motivation derrière cette assiociation est bien sûr la nourriture ! Les concernes sont **Corentin Colart**, **Magali Dhyne** et **Emmanuel Meunier**.
+L'idée géniale et ingénieuse sort tout droit de la matière grise de trois cerveaux fusionnés ensemble par l'entraide, le partage et ... Non en fait nous ne mentons pas, la seule motivation derrière cette assiociation est bien sûr la nourriture ! Les concernés sont **Corentin Colart**, **Magali Dhyne** et **Emmanuel Meunier**.
 
 ## Vous avez dit trois jours ?!
 
