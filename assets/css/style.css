@@ -156,6 +156,25 @@ form div {
           justify-content: center;
 }
 
+.bg_resto .time {
+  background-color: rgba(5, 5, 5, 0.712);
+  color: white;
+  border-radius: 25px;
+}
+
+.bg_resto h2 {
+  font-weight: bold;
+  font-size: 300%;
+}
+
+.bg_resto h3 {
+  font-weight: bold;
+}
+
+.bg_resto strong {
+  font-weight: bold;
+}
+
 body {
   font-family: 'Montserrat', sans-serif;
 }
