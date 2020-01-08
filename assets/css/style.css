@@ -91,7 +91,49 @@ h2, h3 {
   text-align: center;
 }
 
+#chi {
+  background: url("../img/2230.jpg") center 0 no-repeat fixed;
+  background-size: cover;
+}
+
+#mexi {
+  background: url("../img/1523.jpg") center 0 no-repeat fixed;
+  background-size: cover;
+}
+
+.parallax {
+  height: 300px;
+  overflow: hidden;
+  overflow-y: auto;
+  -webkit-perspective: 3px;
+          perspective: 3px;
+  color: white;
+  background-color: var(--bg, --color-black);
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
 body {
   font-family: 'Montserrat', sans-serif;
+}
+
+body .sec_txt {
+  padding: 40px;
+  z-index: 1;
+  font-size: 120%;
+  line-height: 40px;
+}
+
+body .sec_txt h2 {
+  margin-bottom: 30px;
+  font-weight: 700;
 }
 /*# sourceMappingURL=style.css.map */

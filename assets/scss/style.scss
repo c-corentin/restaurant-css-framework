@@ -2,7 +2,20 @@
 @import 'footer';
 @import 'jumbo';
 @import 'carte';
+@import 'parallax';
 
 body {
-    font-family: 'Montserrat', sans-serif;;
+    font-family: 'Montserrat', sans-serif;
+
+    .sec_txt {
+        padding: 40px;
+        z-index: 1;
+        font-size: 120%;
+        line-height: 40px;
+
+        h2 {
+            margin-bottom: 30px;
+            font-weight: 700;
+        }
+    }
 }
