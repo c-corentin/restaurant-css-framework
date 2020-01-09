@@ -203,7 +203,7 @@ form div {
 
 #pagination ul li a {
   background-color: rgba(0, 0, 0, 0.503);
-  border-color: gray;
+  border-color: rgba(0, 0, 0, 0.503);
   color: rgba(255, 255, 255, 0.87);
 }
 
