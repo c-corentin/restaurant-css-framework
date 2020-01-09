@@ -103,8 +103,8 @@ section h2 {
 }
 
 section ul {
-  -webkit-box-shadow: 0px 10px 20px 5px rgba(27, 12, 83, 0.438);
-          box-shadow: 0px 10px 20px 5px rgba(27, 12, 83, 0.438);
+  -webkit-box-shadow: 0px 10px 20px 0px rgba(43, 41, 41, 0.685);
+          box-shadow: 0px 10px 20px 0px rgba(43, 41, 41, 0.685);
 }
 
 section .list {
