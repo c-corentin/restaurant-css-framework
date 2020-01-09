@@ -187,6 +187,10 @@ form div {
   font-weight: bold;
 }
 
+.bg_resto .frame {
+  width: 95%;
+}
+
 #pagination {
   background-color: rgba(4, 9, 27, 0.993) !important;
 }
