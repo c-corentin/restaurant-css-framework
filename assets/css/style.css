@@ -20,6 +20,7 @@ nav ul li a {
 
 nav ul li .active {
   background-color: #4CAF50;
+  border-radius: 10px;
 }
 
 /* Change the link color to #111 (black) on hover */
