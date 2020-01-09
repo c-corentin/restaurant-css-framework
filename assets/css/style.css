@@ -30,8 +30,8 @@ li a:hover {
 }
 
 footer {
-  background-color: rgba(21, 61, 206, 0.993);
-  background: linear-gradient(45deg, rgba(122, 126, 137, 0.993), #465071, #04091b);
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(41, 57, 99, 0.993)), to(rgba(4, 9, 27, 0.993)));
+  background: linear-gradient(to top, rgba(41, 57, 99, 0.993), rgba(4, 9, 27, 0.993));
   color: white;
   -webkit-box-shadow: 0px 1px 2px black;
           box-shadow: 0px 1px 2px black;
@@ -86,6 +86,10 @@ footer aside iframe {
 
 .jumbo .bg_text h1 {
   text-transform: uppercase;
+}
+
+h2, h3 {
+  text-align: center;
 }
 
 section {
@@ -161,8 +165,9 @@ form div {
 #car .carousel-inner > .item > img {
   min-height: 300px;
   max-height: 300px;
-  width: 100%;}
-  
+  width: 100%;
+}
+
 .bg_resto .time {
   background-color: rgba(5, 5, 5, 0.712);
   color: white;
@@ -180,6 +185,27 @@ form div {
 
 .bg_resto strong {
   font-weight: bold;
+}
+
+#pagination {
+  background-color: rgba(4, 9, 27, 0.993) !important;
+}
+
+#pagination ul {
+  background-color: rgba(4, 9, 27, 0.993);
+  -webkit-box-shadow: 0px 5px 5px rgba(4, 9, 27, 0.993);
+          box-shadow: 0px 5px 5px rgba(4, 9, 27, 0.993);
+}
+
+#pagination ul li {
+  background-color: rgba(0, 0, 0, 0);
+  padding: 1rem;
+}
+
+#pagination ul li a {
+  background-color: rgba(0, 0, 0, 0.503);
+  border-color: gray;
+  color: rgba(255, 255, 255, 0.87);
 }
 
 body {
